@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2u+Ezxb2jjI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikita\\RiderProjects\\ListRequests\\ListRequests\\ListRequests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikita\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\nikita\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\nikita\\.nuget\\packages\\npgsql\\9.0.2\\npgsql.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
